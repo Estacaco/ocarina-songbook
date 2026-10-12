@@ -1,12 +1,12 @@
 {
-  "name": "Totally Original Song",
-  "artist": "Unknown (user-supplied MIDI)",
+  "name": "Kids",
+  "artist": "MGMT",
   "contributor": "logan",
   "part": "the main A-major theme, first ~32 s (four statements of the theme)",
   "key": "A major (original key, A4..G#5); moved -7 semitones onto the ocarina (D4..C#5)",
   "letters": "A4 B4 C#5 E5 F#5 G#5 F#5 E5 C#5 B4 A4 B4 C#5 E5 F#5 G#5 F#5 E5 C#5 R A4 B4 C#5 E5 F#5 G#5 F#5 E5 C#5 B4 A4 B4 C#5 E5 F#5 G#5 F#5 E5 C#5 R A4",
   "sources": [
-    "https://example.com/replace-with-link-to-the-midi"
+    "https://github.com/ckarnell/ocarina-songbook/pull/22"
   ],
   "bpm": 123.0,
   "beats": [
